@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+ * {
+  margin-top: 2rem;
+ }
+
+ .play {
+  margin-top: .5rem;
+ }
